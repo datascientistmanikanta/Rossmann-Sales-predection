@@ -82,9 +82,9 @@ So, we choose RMSE as a metric to measure the performance of our models.
 ## 🚀 About Me
 
 
-- 👋 Hi, I’m Shahrukh, a curious Data Dcientist
+- 👋 Hi, I am G Manikanta, a curious Data Scientist
 - 👀 I’m currently working on Machine Learning projects.
-- 🌱 I’m currently learning various machine learning models and deep learning techniques.
+- 🌱 I’m currently learning various machine learning models 
 - 💞️ I’m would love to collaborate on Machine Learning projects.
-- 📫 How to reach me : khan441shahrukh@gmail.com
-- 👀 LinkedIn : https://www.linkedin.com/in/md-shahrukh-khan-49a027172/
+- 📫 How to reach me : kantamani13532@gmail.com
+- 👀 LinkedIn : https://www.linkedin.com/in/mkdatascientist
